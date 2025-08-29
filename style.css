@@ -11,14 +11,13 @@ p {
   font-family: "Courier New", "monospace";
 }
 #carlos {
+  align-items: center;
 }
 
 #heinz {
 }
 .imgs {
-  display: relative;
-}
-img {
-  height: 25vh;
+  position: relative;
+  height: 50vh;
   width: auto;
 }
