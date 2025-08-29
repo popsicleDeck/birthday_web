@@ -1,0 +1,24 @@
+.moveUp {
+  transform: translateX(100vh);
+}
+
+body {
+  position: relative;
+  width: 100%;
+}
+
+p {
+  font-family: "Courier New", "monospace";
+}
+#carlos {
+}
+
+#heinz {
+}
+.imgs {
+  display: relative;
+}
+img {
+  height: 25vh;
+  width: auto;
+}
